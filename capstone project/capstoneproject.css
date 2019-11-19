@@ -1,0 +1,120 @@
+h1 {color:black;font-size:75px;text-align:center}
+ h2 {color:red;font-size:30px;text-align:center}
+body {
+    font-family: Verdana, Arial, Helvetica, cursive, sans-serif;
+    font-size: 13px;
+    color:black;
+    background-color:#8e8f91;
+   
+}
+
+p {
+  padding:20px;
+}
+
+
+#wrapper {
+    width: 100%;
+    min-width: 1000px;
+    max-width: 2000px;
+    margin: 0 auto;
+}
+
+#header {
+    float: left;
+    height: 300px;
+    width: 100%;
+    background:#8e8f91;
+    font-size: 70px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color:grey
+    position-absolute
+}
+
+
+.myNav {
+    display: block;
+
+    line-height: 10px;
+    float: left;
+    height: 40px;
+    width: 100%;
+    background: #8e8f91;
+
+}
+
+.myNav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+     color:white;
+}
+.myNav li {
+    display: inline-block;
+    text-align: right;
+     color:white;
+
+}
+
+.myNav li a {
+    display: inline-block;
+    text-align: center;
+    padding: 14px 16px;
+     color:white;
+
+}
+
+.myPic li a {
+    display: inline-block;
+    text-align: center;
+    padding: 14px 16px;
+  
+
+}
+
+
+#contentliquid {
+    float: left;
+    width: 100%;
+    text-align:center;
+   
+}
+
+#content {
+  margin-top: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+  background: #cdd0f4;
+   text-align:center;
+}
+
+#leftcolumn {
+    background: black;
+    width: 180px;
+     height:370px;
+    float: left;
+     font-size: 21px;
+       color: white;
+    margin-left:0px;
+    border: 4px solid black 
+}
+
+#rightcolumn {
+   background: black;
+    width: 180px;
+    height:370px;
+    float: right;
+    margin-right: 0px;
+font-size: 13px;
+    color:white;
+    
+}
+
+#footer {
+
+    position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 0rem;    
+ 
+}
