@@ -84,6 +84,7 @@ p {
   margin-top: 100px;
     margin-left: 200px;
     margin-right: 200px;
+	height:3100px;
   background: #cdd0f4;
    text-align:center;
 }
@@ -91,7 +92,7 @@ p {
 #leftcolumn {
     background: black;
     width: 180px;
-     height:370px;
+     height:1000px;
     float: left;
      font-size: 21px;
        color: white;
@@ -101,8 +102,8 @@ p {
 
 #rightcolumn {
    background: black;
-    width: 180px;
-    height:370px;
+    width: 190px;
+    height:1000px;
     float: right;
     margin-right: 0px;
 font-size: 13px;
